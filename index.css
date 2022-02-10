@@ -394,6 +394,7 @@
     background-color: white;
     position: relative;
     overflow: scroll;
+    font-size: small;
   }
 
 [id="signUpContainer"] div[id="signUp"] {
